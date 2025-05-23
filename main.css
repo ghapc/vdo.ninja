@@ -6527,3 +6527,21 @@ button.toggleSettings,
 	content: "\f2ce"; }
 .la-chalkboard:before {
 	content: "\f51b"; }
+
+/* AJ 2025-05-23 */
+#header:before {
+    content:"Join an APC Meeting";
+    display: block;
+    font-size: 2em;
+    padding-bottom:15px;
+}
+
+#header {
+    padding:50px !important;
+    text-align:center;
+}
+
+.infoblob {
+    display:none;
+}
+
